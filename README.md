@@ -2,7 +2,7 @@
 A lush, customizable music player with a fun audio spectrum
 Uses Tkinter for GUI drawing and PyAudio for the audio stream
 
-![player](https://i.imgur.com/XyUbVV8)
+[!(https://i.imgur.com/XyUbVV8)](https://i.imgur.com/XyUbVV8.png)
 
 # Features
 

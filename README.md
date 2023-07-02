@@ -25,3 +25,4 @@ Uses Tkinter for GUI drawing and PyAudio for the audio stream
 
 **More styles for the visualizer!**
 
+**Actual use for the song cover**

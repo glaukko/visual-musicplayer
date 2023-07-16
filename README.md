@@ -11,11 +11,13 @@ Uses Tkinter for GUI drawing and PyAudio for the audio stream
 
 **Clean, Intuitive and Responsive Interface**
 
+**Arrangeable playlist**
+
 **Shuffle and Repeat**
 
 **Audio Visualizer**
 
-**Drag and Drop multiple files to the songlist!**
+**Drag and Drop multiple files to the playlist!**
 
 # Upcoming
 

@@ -2,6 +2,8 @@
 
 A customizable music player with a fun audio spectrum made in Python
 
+## Disclaimer
+This program can only play 16-bit WAV files and is currently discontinued 😔
 
 <img src="https://i.imgur.com/FwwhzWp.gif"/>
 
@@ -30,8 +32,3 @@ A customizable music player with a fun audio spectrum made in Python
 **More styles for the visualizer!**
 
 **Actual use for the song cover**
-
-# More info
-
-This program can only play 16-bit WAV files and is discontinued 😔
-If you want to make improvements on it feel free to contact me 

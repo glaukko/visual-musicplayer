@@ -1,5 +1,5 @@
 ## visual-musicplayer
-A lush, customizable music player with a fun audio spectrum
+A customizable music player with a fun audio spectrum
 
 Uses Tkinter for GUI drawing and PyAudio for the audio stream
 

@@ -263,6 +263,7 @@ class MusicPlayerWindow(TkinterDnD.Tk):
 
 
     def import_images(self):
+        
         #Image files
 
         self.iconbitmap("icon.ico")

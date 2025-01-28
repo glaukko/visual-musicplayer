@@ -7,6 +7,11 @@ This program can only play 16-bit WAV files and is currently discontinued 😔
 
 <img src="https://i.imgur.com/FwwhzWp.gif"/>
 
+# Download and Use
+- Download all the source files in this repository, including the "img" folder
+- Put all of them in the same folder
+- Run main.py with Python 3
+
 # Features
 
 **Wave file playback**
